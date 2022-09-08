@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FloLegd
+- 🌱 I’m currently learning Data Engineering
+- 📫 How to reach me : FlorianLegrand@outlook.fr
